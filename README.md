@@ -25,17 +25,6 @@
 
 ---
 
-### 3. Nettoyer et structurer les données (Transformation)
-- **Objectif :** Organiser les données pour leur exploitation.
-- **Actions à réaliser :**
-  - Identifier et gérer les données manquantes.
-  - Agréger les données par jour ou par semaine pour simplifier l'analyse.
-- **Outils :**
-  - `moment.js` ou `date-fns` pour la gestion des dates.
-  - Scripts en JavaScript pour transformer les données.
-
----
-
 ### 4. Visualiser les données
 - **Objectif :** Présenter les données sous forme de graphiques et de visualisations claires.
 - **Types de visualisations :**
